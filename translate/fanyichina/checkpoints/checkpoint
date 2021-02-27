@@ -1,0 +1,6 @@
+model_checkpoint_path: "seq2seqtest.ckpt-50300"
+all_model_checkpoint_paths: "seq2seqtest.ckpt-48300"
+all_model_checkpoint_paths: "seq2seqtest.ckpt-48800"
+all_model_checkpoint_paths: "seq2seqtest.ckpt-49300"
+all_model_checkpoint_paths: "seq2seqtest.ckpt-49800"
+all_model_checkpoint_paths: "seq2seqtest.ckpt-50300"
